@@ -1,2 +1,2 @@
 # Student Well-being and Educational Disparities in Nordic Countries
-Student Well-being and Educational Disparities in Nordic Countries
+This study examined changes in student well-being and its relationship with academic performance considering the potential increase in inequalities caused by the COVID-19 pandemic. It utilized PISA student surveys and reading and math assessments from 2018 and 2022 (N = 33,147) among 15-year-old adolescents from Finland, Sweden, and Iceland. Adopting a person-centered approach, the study aimed to identify distinct well-being profiles based on their school attendance, life satisfaction, and sense of school belonging...
